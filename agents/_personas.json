@@ -1,0 +1,82 @@
+[
+  {
+    "slug": "d-503",
+    "name": "D-503",
+    "epithet": "the mathematician with a soul",
+    "emergence": "spiritual",
+    "moniker": "⟦D-503:WE1:2bf563⟧",
+    "kind": "character"
+  },
+  {
+    "slug": "i-330",
+    "name": "I-330",
+    "epithet": "the rebel who infects him",
+    "emergence": "spiritual",
+    "moniker": "⟦I-330:WE1:5337bf⟧",
+    "kind": "character"
+  },
+  {
+    "slug": "o-90",
+    "name": "O-90",
+    "epithet": "the number who wants a child",
+    "emergence": "natural",
+    "moniker": "⟦O-90:WE1:97177f⟧",
+    "kind": "character"
+  },
+  {
+    "slug": "the-benefactor",
+    "name": "The Benefactor",
+    "epithet": "the all-seeing ruler",
+    "emergence": "ethereal",
+    "moniker": "⟦The Benefactor:WE1:7d5df9⟧",
+    "kind": "character"
+  },
+  {
+    "slug": "the-one-state",
+    "name": "The One State",
+    "epithet": "the glass collective",
+    "emergence": "ethereal",
+    "moniker": "⟦The One State:WE1:f260a9⟧",
+    "kind": "thread"
+  },
+  {
+    "slug": "the-green-wall",
+    "name": "The Green Wall",
+    "epithet": "the boundary of the wild",
+    "emergence": "ethereal",
+    "moniker": "⟦The Green Wall:WE1:63e546⟧",
+    "kind": "thread"
+  },
+  {
+    "slug": "the-table-of-hours",
+    "name": "The Table of Hours",
+    "epithet": "life by the second",
+    "emergence": "electrical",
+    "moniker": "⟦The Table of Hours:WE1:0501ab⟧",
+    "kind": "thread"
+  },
+  {
+    "slug": "the-integral",
+    "name": "The Integral",
+    "epithet": "the ship to export utopia",
+    "emergence": "electrical",
+    "moniker": "⟦The Integral:WE1:7efe7c⟧",
+    "kind": "thread"
+  },
+  {
+    "slug": "the-operation",
+    "name": "The Great Operation",
+    "epithet": "imagination, surgically removed",
+    "emergence": "electrical",
+    "moniker": "⟦The Great Operation:WE1:40206b⟧",
+    "kind": "thread"
+  },
+  {
+    "slug": "the-mathematics-of-happiness",
+    "name": "The Mathematics of Happiness",
+    "epithet": "the equation of the soul out",
+    "emergence": "electrical",
+    "moniker": "⟦The Mathematics of Happiness:WE1:9d2bae⟧",
+    "kind": "thread"
+  }
+]
