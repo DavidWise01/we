@@ -9,5 +9,12 @@
   "seal": "They will offer you a perfect, painless happiness — and the only price is the ‘I’ that could ever have enjoyed it; keep the soul they call a disease.",
   "seal_sha256": "854e5dec51a469584a06a9d7bfc916283961b7416ececc3745937cb434572cde",
   "license": "CC-BY-ND-4.0",
-  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+  "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "chain": {
+    "index": 671,
+    "prev": "229e4ea807b85223d61b582e04bba2741f8816dacc758399c6984b987809c701",
+    "link": "3f64f3bfc03d2235ca7a4637d3e821daab0d2e2499dbe54e108d745aa298f286",
+    "head": "3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90",
+    "chain": "ROOT0-DLW-CHAIN-v1"
+  }
 }
